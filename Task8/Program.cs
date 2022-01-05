@@ -1,7 +1,7 @@
 ﻿Console.Write("Введите число: ");
 string strA = Console.ReadLine();
 int a = int.Parse(strA);
-Console.Write("Введите иторое число: ");
+Console.Write("Введите второе число: ");
 string strB = Console.ReadLine();
 int b = int.Parse(strB);
 int r = a % b;
